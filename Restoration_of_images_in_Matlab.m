@@ -1,3 +1,14 @@
+% File: Restoration_of_images_in_Matlab.m
+% Description: Restoration of images in Matlab using inverse filtration technique
+% Environment: Matlab
+%
+% MIT License
+% Copyright (c) 2017 Valentyn N Sichkar
+% github.com/sichkar-valentyn
+%
+% Reference to:
+% [1] Valentyn N Sichkar. Restoration of images in Matlab using inverse filtration technique // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Restoration_of_images_in_Matlab (date of access: XX.XX.XXXX)
+
 close all;
 
 %Reading an original image
