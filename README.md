@@ -5,7 +5,14 @@ Restoration of images in Matlab using inverse filtration technique
 [1] Valentyn N Sichkar. Restoration of images in Matlab using inverse filtration technique // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Restoration_of_images_in_Matlab (date of access: XX.XX.XXXX)
 
 ## Description
-Restoration of image using different techniques in Matlab
+Restoration of image using different techniques in Matlab.
+<p>The main goals are:</p>
+<ul>
+<li>Create a blurred image from original one</li>
+<li>Add some random noise to the blurred image</li>
+<li>Restore blurred image</li>
+<li>Restored blurred and noisy image</li>
+</ul>
 
 ## Original, Blurred and Noised images
 ![Results](images/Original_Blurred_and_Noised_images.png)
