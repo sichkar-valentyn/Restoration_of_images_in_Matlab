@@ -1,9 +1,6 @@
 # Restoration of images in Matlab
 Restoration of images in Matlab using inverse filtration technique
 
-### Courses:
-* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
-
 ### Reference to:
 [1] Valentyn N Sichkar. Restoration of images in Matlab using inverse filtration technique // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Restoration_of_images_in_Matlab (date of access: XX.XX.XXXX)
 
